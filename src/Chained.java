@@ -1,4 +1,4 @@
-//lxd210013 - Luca Donadello - CS 4348.001
+//Luca Donadello
 
 import java.io.*;
 import java.nio.charset.*;

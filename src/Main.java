@@ -1,4 +1,4 @@
-//lxd210013 - Luca Donadello Project 3 - CS4348.001
+//Luca Donadello
 
 public class Main {
 
